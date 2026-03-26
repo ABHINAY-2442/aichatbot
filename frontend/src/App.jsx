@@ -138,7 +138,6 @@ function App() {
       <div className="bg-orb orb3" />
 
       <header className="hero-section">
-        <div className="hero-badge">Powered by Groq ⚡</div>
         <h1 className="hero-title">
           Emotionally Intelligent<br />
           <span className="gradient-text">AI Companion</span>
